@@ -1,5 +1,5 @@
 # Verification-code-identification-interface
-一个简单易用的验证码识别接口，基于Python以及ddddocr。
+一个简单易用的验证码识别接口，基于web.py以及ddddocr。
 
 # 试用
 本项目已部署至 https://ocr.qianlimu.tk 。
